@@ -1,0 +1,11 @@
+2022-11-21 19:21:25 [com.americo.org.doacoes.DoacoesApplication] INFO: Sistema de gerenciamento de doações iniciado com sucesso!
+2022-11-21 19:46:08 [com.americo.org.doacoes.controllers.UsuarioController] INFO: salvo no bd corretamente!
+2022-11-21 19:46:34 [com.americo.org.doacoes.controllers.UsuarioController] INFO: Consulta de todos os cadastros no bd realizada corretamente
+2022-11-21 19:46:43 [com.americo.org.doacoes.controllers.UsuarioController] INFO: deletado corretamente
+2022-11-21 19:47:31 [com.americo.org.doacoes.controllers.ProdutoController] INFO: salvo no bd corretamente!
+2022-11-21 19:48:03 [com.americo.org.doacoes.controllers.ProdutoController] INFO: Consulta por id realizada com sucesso
+2022-11-21 19:48:09 [com.americo.org.doacoes.controllers.ProdutoController] INFO: deletado corretamente
+2022-11-21 19:48:15 [com.americo.org.doacoes.controllers.ProdutoController] INFO: Consulta de todos os cadastros no bd realizada corretamente
+2022-11-21 19:48:40 [com.americo.org.doacoes.controllers.DepositoController] INFO: salvo no bd corretamente!
+2022-11-21 19:48:48 [com.americo.org.doacoes.controllers.DepositoController] INFO: Consulta de todos os cadastros no bd realizada corretamente
+2022-11-21 19:48:54 [com.americo.org.doacoes.controllers.DepositoController] INFO: Consulta por id realizada com sucesso
